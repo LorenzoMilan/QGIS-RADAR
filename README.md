@@ -7,3 +7,5 @@ based on a visibility analysis and the cone method. RADAR is therefore designed 
 runout susceptibility analysis, specific elements at risk can be highlighted such as structures, infrastructures, residential areas, touristic areas, existing 
 protective measures, etc. On the other hand, each of these elements at risk is af-fected by the different points of the source area with a different frequency, 
 i.e. there are sectors of the source area which most affect the element at risk. 
+
+Additional and detailed information about how RADAR works is presented in an open access research paper currently under review, which will be linked here as soon as possible.
