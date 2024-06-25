@@ -11,7 +11,7 @@ runout susceptibility analysis, specific elements at risk can be highlighted suc
 protective measures, etc. On the other hand, each of these elements at risk is af-fected by the different points of the source area with a different frequency, 
 i.e. there are sectors of the source area which most affect the element at risk. 
 The goal of RADAR is the rapid assessment of large-scale release activity maps associated with widespread rockfall occurrences. These maps enable the swift 
-identification of the most problem-atic areas within extensive slopes and valleys and are precious for land planning pur-poses. In fact, these are the slope 
+identification of the most problematic areas within extensive slopes and valleys and are precious for land planning purposes. In fact, these are the slope 
 sectors where detailed analyses, monitoring tool in-stallation, or consolidation work should be carried out.
 
 Additional and detailed information about how RADAR works is presented in the open access research paper https://www.mdpi.com/2076-3263/13/12/386.
